@@ -9,7 +9,7 @@
 <symbol id="icon-mobile" viewBox="0 0 23 32">
 <path d="M19.429 0h-16c-1.891 0-3.429 1.346-3.429 3v26c0 1.654 1.538 3 3.429 3h16c1.891 0 3.429-1.346 3.429-3v-26c0-1.654-1.538-3-3.429-3zM3.429 2h16c0.631 0 1.143 0.448 1.143 1v21h-18.286v-21c0-0.552 0.512-1 1.143-1zM19.429 30h-16c-0.631 0-1.143-0.448-1.143-1v-3h18.286v3c0 0.552-0.512 1-1.143 1z"></path>
 </symbol>
-<symbol id="icon-Vector" viewBox="0 0 42 32">
+<symbol id="icon-check" viewBox="0 0 42 32">
 <path fill="#fff" style="fill: var(--color3, #fff); stroke: var(--color3, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.263 15.205l-0.22-0.21-3.307 3.132 11.651 11.114 24.477-23.351-3.285-3.134-21.192 20.197-8.124-7.75z"></path>
 </symbol>
 <symbol id="icon-close-madal" viewBox="0 0 32 32">
@@ -24,7 +24,7 @@
 <symbol id="icon-person-label" viewBox="0 0 32 32">
 <path d="M16 16c2.947 0 5.333-2.387 5.333-5.333s-2.387-5.333-5.333-5.333c-2.947 0-5.333 2.387-5.333 5.333s2.387 5.333 5.333 5.333zM16 18.667c-3.56 0-10.667 1.787-10.667 5.333v1.333c0 0.733 0.6 1.333 1.333 1.333h18.667c0.733 0 1.333-0.6 1.333-1.333v-1.333c0-3.547-7.107-5.333-10.667-5.333z"></path>
 </symbol>
-<symbol id="icon-icon-plane" viewBox="0 0 32 32">
+<symbol id="icon-plane" viewBox="0 0 32 32">
 <path d="M32 0l-32 18 10.227 3.788 15.773-14.788-11.998 16.186 0.010 0.004-0.012-0.004v8.814l5.735-6.691 7.265 2.691 5-28z"></path>
 </symbol>
 <symbol id="icon-client4" viewBox="0 0 60 32">
