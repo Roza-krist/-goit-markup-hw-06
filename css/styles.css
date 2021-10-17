@@ -597,9 +597,8 @@ img {
   padding-top: 40px;
 }
 .form-label {
-  position: relative;
   display: block;
-  margin-bottom: 28px;
+  margin-bottom: 10px;
 }
 .modal-form-input {
   width: 100%;
@@ -615,10 +614,13 @@ img {
 .modal-form-input:focus {
   border-color: var(--accent-color);
 }
+.icon-position {
+  position: relative;
+}
 .icon-input {
   position: absolute;
   left: 16px;
-  top: 65%;
+  top: 50%;
   width: 18px;
   height: 18px;
   transform: translateY(-50%);
